@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[8756,[],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[8756,[],"ViewportBoundary"]
+8:I[8756,[],"MetadataBoundary"]
+9:I[6613,[],"IconMark"]
+b:I[513,[],""]
+c:I[8773,[],""]
+6:X
+e:X
+e:C
+0:{"buildId":"Z4xrDhUKB4wFDUVwagMMd","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"not-found section-shell","children":[["$","p",null,{"className":"mini-label","children":"A LITTLE OFF THE GARDEN PATH"}],["$","h1",null,{"children":["Let’s find your",["$","br",null,{}],["$","em",null,{"children":"way back."}]]}],["$","p",null,{"children":"The page you’re looking for isn’t here. There’s plenty more to explore."}],["$","a",null,{"className":"button button-dark","href":"/axel-landscaping/","children":["Back to home ",["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","aria-hidden":"true","children":["$","path",null,{"d":"M4 12h15m-6-6 6 6-6 6","stroke":"currentColor","strokeWidth":"1.3"}]}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f7f6f0"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kansas City Landscaping & Outdoor Living | Axel Landscaping"}],["$","meta","1",{"name":"description","content":"Thoughtful landscape design, patios, planting, irrigation and ongoing landscape care in Kansas City. Discover a beautiful way to live outdoors with Axel Landscaping."}],["$","link","2",{"rel":"canonical","href":"https://grandpajackai.github.io/axel-landscaping/"}],["$","meta","3",{"property":"og:title","content":"Axel Landscaping — Outdoor Living, Beautifully Considered"}],["$","meta","4",{"property":"og:description","content":"Landscape design, outdoor living and landscape care. Rooted in Kansas City. Designed around you."}],["$","meta","5",{"property":"og:url","content":"https://grandpajackai.github.io/axel-landscaping/"}],["$","meta","6",{"property":"og:site_name","content":"Axel Landscaping"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:image","content":"https://grandpajackai.github.io/axel-landscaping/assets/hero.webp"}],["$","meta","9",{"property":"og:image:width","content":"1600"}],["$","meta","10",{"property":"og:image:height","content":"900"}],["$","meta","11",{"property":"og:image:alt","content":"Contemporary limestone home with a lush, layered garden"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Axel Landscaping | Kansas City"}],["$","meta","15",{"name":"twitter:description","content":"Landscape design, outdoor living and landscape care. Rooted in Kansas City. Designed around you."}],["$","meta","16",{"name":"twitter:image","content":"https://grandpajackai.github.io/axel-landscaping/assets/hero.webp"}],["$","link","17",{"rel":"icon","href":"/axel-landscaping/favicon.svg"}],["$","link","18",{"rel":"apple-touch-icon","href":"/axel-landscaping/favicon.svg"}],["$","$L9","19",{}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$6","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$6","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+4:null
+10:true
+6:300
+6:C
+f:0
+a:"$undefined"
+d:"$undefined"
+5:"$undefined"

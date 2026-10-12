@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://grandpajackai.github.io/axel-landscaping
+Sitemap: https://grandpajackai.github.io/axel-landscaping/sitemap.xml
